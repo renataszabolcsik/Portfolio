@@ -2,7 +2,6 @@ Data Science Portfolio
 ===
 
 Author: Renata Szabolcsik
-StudentID: 44500122
 
 # Purpose
 
